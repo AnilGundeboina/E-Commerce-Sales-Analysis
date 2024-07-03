@@ -50,5 +50,6 @@ Interactive Dashboards: Use the filters to explore the data by year, region, and
 Comprehensive Analysis: Includes a variety of visualizations to provide a thorough analysis of sales and profit data.
 Geographical Insights: Sales data mapped by state for a clear geographical understanding.
 Contact
-For any questions or further information, please feel free to contact me at [your email address].
+For any questions or further information, please feel free to contact me at [gundeboinaa8@gmail.com].
+![image](https://github.com/AnilGundeboina/E-Commerce-Sales-Analysis/assets/167597879/0d7affe3-f6fd-453c-8cf7-feefc0ab7ef3)
 
