@@ -51,5 +51,7 @@ Comprehensive Analysis: Includes a variety of visualizations to provide a thorou
 Geographical Insights: Sales data mapped by state for a clear geographical understanding.
 Contact
 For any questions or further information, please feel free to contact me at [gundeboinaa8@gmail.com].
+"C:\Users\anush\Downloads\Ecommerce Sales Analysis.pdf"
+
 
 
