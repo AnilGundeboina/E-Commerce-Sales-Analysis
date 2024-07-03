@@ -51,6 +51,5 @@ Comprehensive Analysis: Includes a variety of visualizations to provide a thorou
 Geographical Insights: Sales data mapped by state for a clear geographical understanding.
 Contact
 For any questions or further information, please feel free to contact me at [gundeboinaa8@gmail.com].
-![image](https://github.com/AnilGundeboina/E-Commerce-Sales-Analysis/assets/167597879/0ecd8afe-80ac-403a-9c6f-a760c9839f83)
 
 
